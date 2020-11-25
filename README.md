@@ -1,1 +1,2 @@
 # JavaString
+reflect on clone
